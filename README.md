@@ -1,2 +1,3 @@
 # JS_MINI_PROJECT_01
-This is my js mini project.
+A mini JavaScript project to practice event handling and DOM manipulation.
+Exploring how to make web pages come alive using JavaScript magic.
